@@ -3,7 +3,7 @@ const app = express();
 app.use(express.json());
 
 const licenses = {
-  "MYSTORE-XXXX-1111": { active: true },
+  "52store-mo76-4s5s": { active: true },
   "MYSTORE-XXXX-2222": { active: true },
 };
 
